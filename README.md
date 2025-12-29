@@ -12,7 +12,7 @@
 
 ## URL
 - **開発環境**: https://3000-i8gz3p2t4pnugsdajehtr-d0b9e1e2.sandbox.novita.ai
-- **GitHub**: （未設定）
+- **GitHub**: https://github.com/umemak/pfc-balance-calculator
 
 ## 現在完了している機能
 
